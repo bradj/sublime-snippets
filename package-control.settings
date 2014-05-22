@@ -1,0 +1,14 @@
+{
+	"installed_packages":
+	[
+		"GitGutter",
+		"JsFormat",
+		"Pylinter",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Nexus",
+		"Theme - Numix",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark"
+	]
+}
