@@ -16,6 +16,4 @@ Mine is:
 Don't know where your user directory is?
 --
 
-1. Open **Sublime** and create a new snippet
-2. Save the snippet
-3. Look at the folder the snippet is being saved to. This location will tell you where your user directory is **AND** where you need to clone this repository.
+Snippets can be stored under any package’s folder, but to keep it simple while you’re learning, you can save them to your Packages/User folder.
