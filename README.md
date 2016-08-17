@@ -10,7 +10,7 @@ Clone the repository in your **Sublime** user directory.
 
 Linux location:
 ```
-~/.config/sublime-text-2/Packages/User
+~/.config/sublime-text-3/Packages/User
 ```
 
 Windows location:
