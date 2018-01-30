@@ -13,6 +13,11 @@ Linux location:
 ~/.config/sublime-text-3/Packages/User
 ```
 
+Mac OS location:
+```
+~/Library/Application Support/Sublime Text 3/Packages/User
+```
+
 Windows location:
 ```
 c:\Users\[username]\AppData\Roaming\Sublime Text 3
